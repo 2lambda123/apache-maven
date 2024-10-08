@@ -161,7 +161,7 @@ under the License.
     <maven.site.path>ref/4-LATEST</maven.site.path>
     <project.build.outputTimestamp>2024-05-22T14:07:09Z</project.build.outputTimestamp>
     <!-- various versions -->
-    <asmVersion>9.7</asmVersion>
+    <asmVersion>9.7.1</asmVersion>
     <byteBuddyVersion>1.15.3</byteBuddyVersion>
     <cipherVersion>3.0.0</cipherVersion>
     <classWorldsVersion>2.8.0</classWorldsVersion>
