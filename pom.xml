@@ -162,7 +162,7 @@ under the License.
     <project.build.outputTimestamp>2024-05-22T14:07:09Z</project.build.outputTimestamp>
     <!-- various versions -->
     <asmVersion>9.7.1</asmVersion>
-    <byteBuddyVersion>1.15.4</byteBuddyVersion>
+    <byteBuddyVersion>1.15.5</byteBuddyVersion>
     <cipherVersion>3.0.0</cipherVersion>
     <classWorldsVersion>2.8.0</classWorldsVersion>
     <commonsCliVersion>1.9.0</commonsCliVersion>
